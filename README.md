@@ -1,6 +1,6 @@
 ![Org Chart](Senior_Design_Org_Chart.png)
 
-# Project Responsibilities
+# Team Responsibilities
 ### Project Manager:
 Manages the development, implementation, and evaluation of complex designs. 
 Oversees product construction and testing to ensure completion of the project as efficiently and effectively as possible 
